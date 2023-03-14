@@ -1,0 +1,2 @@
+# hello
+learning hit commands 
